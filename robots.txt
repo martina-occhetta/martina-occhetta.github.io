@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://martina-occhetta.github.io/sitemap.xml
+Sitemap: https://martina-occhetta.github.io//sitemap.xml
