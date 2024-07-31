@@ -2,18 +2,18 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Martina Occhetta
     - name: Date of Birth
-      value: 14th March 1879
+      value: 2nd June 2001
     - name: Languages
-      value: English, German
+      value: English, Italian, Spanish
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: Queen Mary University of London, UK and Exscientia Ltd, Oxford, UK
+      year: 2023 - 2027
       description:
         - Description 1.
         - Description 2.
@@ -21,9 +21,15 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: MPhil Computational Biology
+      institution: University of Cambridge, Cambridge, UK
+      year: 2022 - 2023
+      description:
+        - Description 1.
+        - Description 2.
+    - title: BSc Biochemistry
+      institution: Imperial College London, UK
+      year: 2019 - 2022
       description:
         - Description 1.
         - Description 2.
