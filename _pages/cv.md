@@ -5,7 +5,7 @@ title: cv
 nav: true
 nav_order: 5
 cv_pdf: mo-cv.pdf
-description: click to download cv as pdf ->
+description: 
 toc:
   sidebar: left
 ---
