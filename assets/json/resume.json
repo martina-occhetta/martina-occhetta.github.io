@@ -1,10 +1,12 @@
 {
   "basics": {
-    "name": "Martina Occhetta",
+    "name": "Albert Einstein",
+    "label": "Scientist",
     "image": "",
-    "email": "m.occhetta@qmul.ac.uk",
-    "url": "https://github.com/martina-occhetta",
-    "summary": "PhD Candidate @ AI for Drug Discovery Programme | MPhil Computational Biology @ University of Cambridge | BSc Biochemistry @ Imperial College London",
+    "email": "albert@einstein.de",
+    "phone": "(912) 123-4567",
+    "url": "https://alshedivat.github.io/al-folio/",
+    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
