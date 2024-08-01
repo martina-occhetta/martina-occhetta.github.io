@@ -6,7 +6,7 @@
     "website": "https://https://martina-occhetta.github.io/",
     "location": {
       "city": "London",
-      "countryCode": "GB"
+      "countryCode": "UK"
     },
     "profiles": [
       {
@@ -31,32 +31,32 @@
       "institution": "Exscientia & Digital Environment Research Institute, Queen Mary’s University of London",
       "area": "AI for Drug Discovery",
       "studyType": "PhD",
-      "startDate": "2023-09-01",
-      "endDate": "2027-09-01",
+      "startDate": "2023-09",
+      "endDate": "2027-09",
       "courses": ["Project: 'Target identification from multi-omics data using systems biology and machine-learning approaches'."]
     },
     {
       "institution": "Wolfson College, University of Cambridge",
       "area": "Computational Biology",
       "studyType": "MPhil",
-      "startDate": "2022-10-01",
-      "endDate": "2023-09-01",
+      "startDate": "2022-09",
+      "endDate": "2023-09",
       "courses": ["MPhil Project: 'AlphaFold-based prediction of the propensity of proteins for phase separation'."]
     },
     {
       "institution": "Imperial College London",
       "area": "Biochemistry",
       "studyType": "BSc",
-      "startDate": "2019-09-01",
-      "endDate": "2022-07-01",
+      "startDate": "2019-09",
+      "endDate": "2022-07",
       "gpa": "First Class Honours",
       "courses": ["Final Year Project: 'Improving deep neural network-based classification of molecular dynamics trajectories of intrinsically disordered proteins through feature engineering'."]
     },
     {
       "institution": "International School of Milan",
       "studyType": "International Baccalaureate",
-      "startDate": "2017-09-01",
-      "endDate": "2019-07-01",
+      "startDate": "2017-09",
+      "endDate": "2019-07",
       "gpa": "43/45",
       "courses": [
         "Chemistry (HL, 7/7)",
@@ -70,15 +70,15 @@
     {
       "company": "Exscientia",
       "position": "Bioinformatics Intern",
-      "startDate": "2022-07-01",
-      "endDate": "2022-09-01",
+      "startDate": "2022-07",
+      "endDate": "2022-09",
       "summary": "Focused on using active learning to explore how to improve AlphaFold2 performance, with the final aim of ensuring full domain coverage by highly confident AlphaFold2 models."
     },
     {
       "company": "Anatomical Pathology Laboratory, Ospedale San Raffaele",
       "position": "Research Intern",
-      "startDate": "2021-07-01",
-      "endDate": "2021-09-01",
+      "startDate": "2021-07",
+      "endDate": "2021-09",
       "summary": "Studied samples from ovarian cancer patients using FISH and next-generation sequencing technologies."
     }
   ],
@@ -86,22 +86,22 @@
     {
       "name": "AlphaFold2-based prediction of the propensity of proteins for phase separation",
       "position": "MPhil Project",
-      "startDate": "2022-03-01",
-      "endDate": "2022-06-01",
+      "startDate": "2023-05",
+      "endDate": "2023-09",
       "summary": "Developed a computational approach to predict single protein liquid-liquid phase separation (LLPS) and co-condensation of protein pairs."
     },
     {
       "name": "AE-based classification of c-Myc MD trajectories",
       "position": "BSc Final Year Project",
-      "startDate": "2022-03-01",
-      "endDate": "2022-06-01",
+      "startDate": "2022-03",
+      "endDate": "2022-06",
       "summary": "Used molecular dynamics simulations to determine conformational changes in mutant c-Myc."
     },
     {
       "name": "The SARS-CoV-2 Mpro as a target for peptidomimetic and small molecule inhibitors",
       "position": "BSc Tutored Dissertation",
-      "startDate": "2021-02-01",
-      "endDate": "2021-06-01",
+      "startDate": "2021-02",
+      "endDate": "2021-06",
       "summary": "Researched efforts to identify drugs targeting the main protease of SARS-CoV-2."
     }
   ],
@@ -119,7 +119,7 @@
     {
       "name": "Databases",
       "level": "Advanced",
-      "keywords": ["EMBL", "GenBank", "Ensembl"]
+      "keywords": ["EMBL", "GenBank", "Ensembl", "TCGA", "PDB", "UniProt", "STRING", "DepMap"]
     },
     {
       "name": "Miscellaneous",
@@ -147,12 +147,32 @@
   "awards": [
     {
       "title": "Beloff-Chain Prize",
-      "date": "2022-01-01",
+      "date": "2022",
       "awarder": "Imperial College London"
     },
     {
       "title": "Convener’s Prize (Bioinformatics)",
-      "date": "2022-01-01",
+      "date": "2022",
+      "awarder": "Imperial College London"
+    },
+    {
+      "title": "Dean's List",
+      "date": "2022",
+      "awarder": "Imperial College London"
+    },
+    {
+      "title": "Biochemistry Second Year Prize",
+      "date": "2021",
+      "awarder": "Imperial College London"
+    },
+    {
+      "title": "Dean's List",
+      "date": "2021",
+      "awarder": "Imperial College London"
+    },
+    {
+      "title": "Dean's List",
+      "date": "2020",
       "awarder": "Imperial College London"
     }
   ],
@@ -176,8 +196,14 @@
   ],
   "references": [
     {
-      "name": "Available upon request",
-      "reference": ""
+      "name": "Professor Conrad Bessant",
+      "icon": "fa-solid fa-thumbtack",
+      "reference": "You can contact Professor Conrad Bessant, my PhD supervisor, for a reference. Please e-mail him at c.bessant@qmul.ac.uk"
+    },
+    {
+      "name": "Professor Michele Vendruscolo",
+      "icon": "fa-solid fa-laptop",
+      "reference": "You can contact Professor Michele Vendruscolo, my MPhil thesis supervisor, for a reference. Please e-mail him at mv245@cam.ac.uk"
     }
   ]
 }
