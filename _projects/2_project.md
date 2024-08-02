@@ -8,11 +8,11 @@ category: work
 related_publications: false
 ---
 
-#### Project: Enhancing Microscopy Image Resolution through Deconvolution and Structured Illumination
+**Enhancing Microscopy Image Resolution through Deconvolution and Structured Illumination**
 
 This project focuses on improving the resolution of microscopy images using advanced deconvolution algorithms. By applying these methods, we aim to overcome the limitations of conventional optical microscopy, particularly the blurring of small and fine specimen structures.
 
-#### Key Objectives:
+##### Key Objectives:
 1. **Understanding Image Formation in Microscopy:**
    - Exploring the image formation process in Fourier space.
    - Analyzing the Point Spread Function (PSF) and Optical Transfer Function (OTF).
