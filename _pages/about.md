@@ -22,6 +22,6 @@ Welcome! I am a first-year PhD student in the <a href='https://www.qmul.ac.uk/de
 
 I graduated from the <a href='https://www.cam.ac.uk/'>University of Cambridge</a> in 2023 with an MPhil in Computational Biology, where I completed my master's thesis under <a href='https://www.ch.cam.ac.uk/person/mv245'>Prof. Michele Vendruscolo</a>. My work focused on AlphaFold2-based prediction of the co-condensation propensity of proteins. Prior to that, I earned a BSc in Biochemistry from <a href='https://www.imperial.ac.uk/'>Imperial College London</a>. I completed my undergraduate thesis under the supervision of <a href='https://profiles.imperial.ac.uk/r.weinzierl/about'>Dr. Robert Weinzierl</a>, focusing on molecular dynamic trajectory classification to identify subclasses of structurally similar conformational ensembles.
 
-My interests lie at the intersection between biology, chemistry, and machine learning, with a focus on understanding the behaviour of biological systems at different levels. 
+My interests lie at the intersection between biology, chemistry, and machine learning, with a focus on understanding the behaviour of biological systems at different scales. 
 
 Originally from Milan, Italy, I moved to the UK when I was 18. While I definitely miss the food, the UK has been home long enough that I think I'll stick around – even if the pasta just isn't the same!
