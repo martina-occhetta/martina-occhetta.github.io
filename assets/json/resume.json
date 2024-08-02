@@ -196,14 +196,14 @@
   ],
   "references": [
     {
-      "name": "Professor Conrad Bessant",
+      "name": "Prof. Conrad Bessant",
       "icon": "fa-solid fa-thumbtack",
-      "reference": "You can contact Professor Conrad Bessant, my PhD supervisor, for a reference. Please e-mail him at c.bessant@qmul.ac.uk"
+      "reference": "You can contact Prof. Conrad Bessant, my PhD supervisor, for a reference. Please e-mail him at c.bessant@qmul.ac.uk"
     },
     {
-      "name": "Professor Michele Vendruscolo",
+      "name": "Prof. Michele Vendruscolo",
       "icon": "fa-solid fa-laptop",
-      "reference": "You can contact Professor Michele Vendruscolo, my MPhil thesis supervisor, for a reference. Please e-mail him at mv245@cam.ac.uk"
+      "reference": "You can contact Prof. Michele Vendruscolo, my MPhil thesis supervisor, for a reference. Please e-mail him at mv245@cam.ac.uk"
     }
   ]
 }
