@@ -108,21 +108,25 @@
   "skills": [
     {
       "name": "Programming",
+      "icon": "fa-solid fa-square-terminal",
       "level": "Advanced",
       "keywords": ["Python", "R", "MatLab", "Julia"]
     },
     {
       "name": "Software",
+      "icon": "fa-solid fa-laptop-code",
       "level": "Advanced",
       "keywords": ["AlphaFold2", "Phyre2", "PyMOL", "Autodock4"]
     },
     {
       "name": "Databases",
+      "icon": "fa-solid fa-database",
       "level": "Advanced",
       "keywords": ["EMBL", "GenBank", "Ensembl", "TCGA", "PDB", "UniProt", "STRING", "DepMap"]
     },
     {
       "name": "Miscellaneous",
+      "icon": "fa-solid fa-toolbox",
       "keywords": ["Ubuntu Linux", "Virtual Machines", "LATEX", "Markdown"]
     }
   ],
@@ -179,18 +183,22 @@
   "interests": [
     {
       "name": "Volunteering",
+      "icon": "fa-solid fa-hands-holding-heart",
       "keywords": ["Fondazione Francesca Rava", "In Farmacia per i Bambini"]
     },
     {
       "name": "Tutoring",
+      "icon": "fa-solid fa-person-chalkboard",
       "keywords": ["GCSE and IB students", "Chemistry", "Biology", "Economics", "Mathematics"]
     },
     {
       "name": "Travelling",
+      "icon": "fa-solid fa-globe",
       "keywords": ["Visiting over 20 countries"]
     },
     {
       "name": "Reading",
+      "icon": "fa-sharp fa-solid fa-books",
       "keywords": ["Fiction", "Non-fiction", "Science", "Social sciences"]
     }
   ],
