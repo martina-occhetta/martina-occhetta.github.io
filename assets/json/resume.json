@@ -108,7 +108,7 @@
   "skills": [
     {
       "name": "Programming",
-      "icon": "fa-solid fa-square-terminal",
+      "icon": "fa-solid fa-terminal",
       "level": "Advanced",
       "keywords": ["Python", "R", "MatLab", "Julia"]
     },
@@ -183,7 +183,7 @@
   "interests": [
     {
       "name": "Volunteering",
-      "icon": "fa-solid fa-hands-holding-heart",
+      "icon": "fa-solid fa-hand-holding-heart",
       "keywords": ["Fondazione Francesca Rava", "In Farmacia per i Bambini"]
     },
     {
@@ -198,7 +198,7 @@
     },
     {
       "name": "Reading",
-      "icon": "fa-sharp fa-solid fa-books",
+      "icon": "fa-solid fa-book",
       "keywords": ["Fiction", "Non-fiction", "Science", "Social sciences"]
     }
   ],
