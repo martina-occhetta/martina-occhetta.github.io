@@ -1,81 +1,34 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
-importance: 3
+title: Biological imaging analysis 
+description: A project on advanced techniques in imaging analysis
+img: assets/img/BIA.png
+importance: 2
 category: work
+related_publications: false
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+**Enhancing Microscopy Image Resolution through Deconvolution and Structured Illumination**
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+This project focuses on improving the resolution of microscopy images using advanced deconvolution algorithms. By applying these methods, we aim to overcome the limitations of conventional optical microscopy, particularly the blurring of small and fine specimen structures.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+##### Key Objectives:
+1. **Understanding Image Formation in Microscopy:**
+   - Exploring the image formation process in Fourier space.
+   - Analyzing the Point Spread Function (PSF) and Optical Transfer Function (OTF).
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+2. **Enhanced Resolution with Structured Illumination Microscopy (SIM):**
+   - Using SIM to exceed the diffraction limit of conventional microscopy.
+   - Describing the process in frequency space and leveraging the Moiré effect to access high-frequency information.
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+3. **Deconvolution Techniques:**
+   - Implementing and comparing different deconvolution algorithms: Landweber, Richardson-Lucy, and Richardson-Lucy Total Variation.
+   - Evaluating the performance of these algorithms in improving image resolution and noise suppression.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+4. **Practical Application on Biological Data:**
+   - Applying these techniques to a dataset of *C. elegans* embryos acquired using a widefield microscope.
+   - Using DeconvolutionLab2 in Fiji/ImageJ to perform deconvolution and assess the improvement in image quality.
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+Access the <a href='https://drive.google.com/file/d/1kdMW4xCeHaRLZ76OOQugBVHol49WBmm5/view?usp=sharing'>pdf</a>.
 
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
+---
