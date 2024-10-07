@@ -1,7 +1,7 @@
 ---
 layout: page
-title: **CoDropleT**
-description: **AlphaFold2-based prediction of the co-condensation propensity of proteins**
+title: CoDropleT
+description: AlphaFold2-based prediction of the co-condensation propensity of proteins
 img: assets/img/mphil_thesis.png
 importance: 1
 category: work
