@@ -50,7 +50,8 @@
       "startDate": "2019-09",
       "endDate": "2022-07",
       "gpa": "First Class Honours",
-      "courses": ["Final Year Project: 'Improving deep neural network-based classification of molecular dynamics trajectories of intrinsically disordered proteins through feature engineering'."]
+      "courses": 
+      ["Final Year Project: 'Improving deep neural network-based classification of molecular dynamics trajectories of intrinsically disordered proteins through feature engineering'."]
     },
     {
       "institution": "International School of Milan",
@@ -58,12 +59,7 @@
       "startDate": "2017-09",
       "endDate": "2019-07",
       "gpa": "43/45",
-      "courses": [
-        "Chemistry (HL, 7/7)",
-        "Biology (HL, 7/7)",
-        "Mathematics (HL, 6/7)",
-        "Economics (HL, 7/7)"
-      ]
+      "courses": ["Chemistry (HL, 7/7)", "Biology (HL, 7/7)", "Mathematics (HL, 6/7)", "Economics (HL, 7/7)"]
     }
   ],
   "work": [
@@ -88,7 +84,8 @@
       "startDate": "2024-06",
       "endDate": "Ongoing",
       "summary": "A comprehensive evaluation framework designed for perturbation response prediction."
-    },{
+    },
+    {
       "name": "AlphaFold2-based prediction of the propensity of proteins for phase separation",
       "position": "MPhil Project",
       "startDate": "2023-05",
