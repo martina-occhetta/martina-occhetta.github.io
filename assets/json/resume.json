@@ -30,23 +30,23 @@
     {
       "institution": "Exscientia & Digital Environment Research Institute, Queen Mary’s University of London",
       "area": "AI for Drug Discovery",
-      "studyType": "PhD",
+      "studyType": "PhD in AI for Drug Discovery",
       "startDate": "2023-09",
       "endDate": "2027-09",
       "courses": ["Project: 'Target identification from multi-omics data using systems biology and machine-learning approaches'."]
     },
     {
       "institution": "Wolfson College, University of Cambridge",
-      "area": "Computational Biology",
-      "studyType": "MPhil",
+      "area": "Department of Applied Mathematics and Theoretical Physics",
+      "studyType": "MPhil Computational Biology",
       "startDate": "2022-09",
       "endDate": "2023-09",
       "courses": ["MPhil Project: 'AlphaFold-based prediction of the propensity of proteins for phase separation'."]
     },
     {
       "institution": "Imperial College London",
-      "area": "Biochemistry",
-      "studyType": "BSc",
+      "area": "Department of Life Sciences",
+      "studyType": "BSc Biochemistry",
       "startDate": "2019-09",
       "endDate": "2022-07",
       "gpa": "First Class Honours",
@@ -69,14 +69,14 @@
   "work": [
     {
       "company": "Exscientia",
-      "position": "Bioinformatics Intern",
+      "position": "Bioinformatics Intern @ Exscientia",
       "startDate": "2022-07",
       "endDate": "2022-09",
       "summary": "Focused on using active learning to explore how to improve AlphaFold2 performance, with the final aim of ensuring full domain coverage by highly confident AlphaFold2 models."
     },
     {
       "company": "Anatomical Pathology Laboratory, Ospedale San Raffaele",
-      "position": "Research Intern",
+      "position": "Research Intern @ Ospedale San Raffaele",
       "startDate": "2021-07",
       "endDate": "2021-09",
       "summary": "Studied samples from ovarian cancer patients using FISH and next-generation sequencing technologies."
@@ -84,6 +84,11 @@
   ],
   "projects": [
     {
+      "name": "PertEval-scFM: Benchmarking Single-Cell Foundation Models for Perturbation Effect Prediction",
+      "startDate": "2024-06",
+      "endDate": "Ongoing",
+      "summary": "A comprehensive evaluation framework designed for perturbation response prediction."
+    },{
       "name": "AlphaFold2-based prediction of the propensity of proteins for phase separation",
       "position": "MPhil Project",
       "startDate": "2023-05",
@@ -194,7 +199,7 @@
     {
       "name": "Travelling",
       "icon": "fa-solid fa-globe",
-      "keywords": ["Visiting over 20 countries"]
+      "keywords": ["Visited 20+ countries"]
     },
     {
       "name": "Reading",
