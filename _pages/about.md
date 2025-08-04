@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD student @ <a href='https://www.qmul.ac.uk/deri/ukri-aidd-doctoral-training-programme/'>Queen Mary University of London</a> and <a href='https://www.exscientia.com/'>Exscientia</a>
+subtitle: PhD student @ <a href='https://www.qmul.ac.uk/deri/ukri-aidd-doctoral-training-programme/'>Queen Mary University of London</a> and <a href='https://www.recursion.com/'>Recursion</a>
 
 profile:
   align: right
