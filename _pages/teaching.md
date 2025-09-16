@@ -9,7 +9,7 @@ nav_order: 6
 
 I am a teaching assistant/tutorial instructor for the following courses at Queen Mary University of London:
 
-- BIO722P (Autumn Term) - <a href="[url](https://www.qmul.ac.uk/modules/items/bio722p-coding-for-bioscientists.html)">Coding for Bioscientists</a>
+- BIO722P (Autumn Term) - <a href="https://github.com/fsmeraldi/c4s-introduction">Coding for Bioscientists</a>
 
 - BIO720P (Autumn Term) - <a href="https://www.qmul.ac.uk/modules/items/bio720p-ai-and-data-science-in-biology.html">AI and Data Science in Biology</a>
  
